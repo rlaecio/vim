@@ -35,7 +35,7 @@ set backspace=2
 set number 
 
 " fazer calculo da distancia das linhas
-set relativenumber
+" set relativenumber
 
 " busca incremental - feedback enquanto busco
 set incsearch
